@@ -1,0 +1,57 @@
+
+
+
+
+
+#card-content {
+    background: #C4C4C4;
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    height: 680px;
+    margin: 4rem auto 8.1rem auto;
+    width: 430px;
+     padding: 12px 90px;
+}
+
+body{
+        background: #C0D9FF;
+    }
+
+#card-title {
+      font-family: "Raleway Thin", sans-serif;
+      letter-spacing: 1px;
+      padding-bottom: 23px;
+      padding-top: 13px;
+}
+
+.underline-title {
+       background: -webkit-linear-gradient(right, #a6f77b, #2ec06f);
+      height: 2px;
+       width: 89px;
+      padding: 10px 20px;
+  align-content: center;
+
+
+}
+
+
+.button-1 {
+ background-color: #008CBA; /* Green */
+ border: none;
+ color: white;
+ padding: 10px 10px;
+ border: none;
+ box-shadow: 0px 1px 8px #24c64f;
+ cursor: pointer;
+ text-align: center;
+ letter-spacing: 0px;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 14px;
+ width: 100%;
+}
+
+.button-1:hover {
+  box-shadow: 0px 1px 18px #24c64f;
+ background-color: #6495ED;
+}

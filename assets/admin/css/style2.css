@@ -1,0 +1,46 @@
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+
+.navbar {
+  background: #FFFFFF;
+}
+
+.bg-blue{
+	background: #4A93FF;
+}
+
+#navbarSupportedContent{
+	padding-left: 200px;
+}
+
+#coba{
+	padding-left: 50px;
+}
+
+#geser{
+	margin-right: 350px;
+}
+
+
+
+h1{
+	font-family : Oldenburg;
+	font-size: 30;
+	color: #013583;
+}
+
+h2{
+	font-family : Oldenburg;
+	font-size : 30;
+	color: #013583;
+}
+
+.bg-coba {
+  background-color: #0674e2 !important;
+}
+
+.navbar-inverse{
+ background-color:  #426edd;
+}
